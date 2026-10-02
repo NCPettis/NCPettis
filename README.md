@@ -1,4 +1,4 @@
-#HI! I'm Nia (knee-uh) 👋
+# HI! I'm Nia (knee-uh) 👋
 
 🔭 I'm currently working on Freelance projects and sharpening the fundamentals daily
 - 🌱 I’m currently a full-stack engineer
