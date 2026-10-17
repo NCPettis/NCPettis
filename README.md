@@ -3,7 +3,7 @@
 🔭 I'm currently working on Freelance projects and sharpening the fundamentals daily
 - 🌱 I’m currently a full-stack engineer
 - 💬 Ask me about Sci-fi on AppleTV
-- 📫 How to reach me: https://www.linkedin.com/in/niapettis/
+- 📫 How to reach me: www.linkedin.com/in/niapettis/
 
 
 <!--
